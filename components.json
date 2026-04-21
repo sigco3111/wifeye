@@ -1,0 +1,20 @@
+{
+  "dir": "src/components/ui",
+  "base": "src/lib/utils.ts",
+  "components": [
+    "button",
+    "card",
+    "badge",
+    "tabs",
+    "switch",
+    "slider",
+    "dialog",
+    "scroll-area",
+    "separator",
+    "tooltip",
+    "avatar",
+    "dropdown-menu",
+    "select",
+    "label"
+  ]
+}
